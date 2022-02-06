@@ -1,0 +1,123 @@
+Rage
+  Aimbot
+    Ragebot
+      Enabled
+      Ragebot Origin
+      Hitboxes
+      Automatic Fire
+  
+    AntiAim
+      Direction
+      Enabled
+      Yaw Base
+      Yaw Offset
+      Yaw Modifier
+      Modifier Offset
+      Force Angles
+    
+      Fakelag
+      Enabled
+      Method
+      Fakelag Limit
+      Visualize Fakelag
+      Freeze World
+      No Send
+
+Legit:
+  Aimbot:
+    Aim Assist
+      Enabled
+      Hitbox
+      Smoothing
+    
+    Silent Aim
+      Enabled
+      Hitbox
+      Hitchance
+    
+    Triggerbot
+      Enabled
+      Reaction Time
+    
+    Targeting
+      Priority
+      Visible Check
+      Distance
+    
+    FOV
+      Fov Size
+      Draw FOV
+      Sides
+      Thickness
+  
+  Advanced:
+    Mouse Offset
+      Enabled
+      X Offset
+      Y Offset
+   
+    
+Visuals
+  Players
+    Esp
+      Enabled
+      Max Distance
+    
+    Enemies
+      Box
+      Name
+      Healthbar
+      Indicators
+
+    Friendlies
+      Box
+      Name
+      Healthbar
+      Indicators
+
+    OOF Arrows
+      Enemies
+      Friendlies
+      Size
+      Offset
+      Settings
+    
+    Chams
+      Enemies
+      Friendlies
+      Through Walls
+
+    Text Settings
+      Font
+      Surround
+
+  World ESP
+    Third Person
+    Distance
+    FOV Changer
+    FOV
+
+Misc
+  Character
+    Walkspeed
+    JumpPower
+    Power
+    Height
+    Noclip
+
+Config
+  Configs
+    Config Select
+    Config Name
+    Config Save
+    Config Load
+
+  Aimbot/Silent Aim Methods
+    Mouse Types
+    Ray Method
+    Minimum Ray Ignore
+    Must Include
+  
+  Player Checks
+    FFA Mode
+    Forcefield Check
